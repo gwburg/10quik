@@ -25,10 +25,10 @@ yarn-error.log*
 *.swp
 *.db
 *.xlsx
+*.pickle
 
 __pycache__
 .flaskenv
 
 myapi/tests/onedrive_test.py
 src/source.js
-*.pickle
