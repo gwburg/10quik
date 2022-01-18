@@ -2,7 +2,7 @@
 This is a practice project to learn web development
 
 ## Purpose
-The aim of 10quik is to combine two of my main hobbies: investing and programming
+The purpose for making 10quik is to combine two of my main hobbies: investing and programming
 
 A core practice of fundamental investing is to read the financial statements of companies you are interested in, which are available for free from the SEC. However, the SEC website is inconvenient and time consuming to navigate, and services that compile these financial statements aren't free. So the goal of 10quik is to allow users to quickly and easily read and analyze financial statements from any public company at no cost.
 
