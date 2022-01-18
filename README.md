@@ -6,7 +6,7 @@ The purpose for making 10quik is to combine two of my main hobbies: investing an
 
 A core practice of fundamental investing is to read the financial statements of companies you are interested in, which are available for free from the SEC. However, the SEC website is inconvenient and time consuming to navigate, and services that compile these financial statements aren't free. So the goal of 10quik is to allow users to quickly and easily read and analyze financial statements from any public company at no cost.
 
-10quik compiles 10-Q and 10-K filings (hence the name) for every publicly traded company. Each financial table within a filing can be quickly converted to an excel sheet for convenient offline analysis. 10quik also utilizes a machine learning algorithm to identify the most commonly viewed tables -- namely the income statement, balance sheet, and cash flow statement -- and links the user directly to them in the document so no manual searching or scrolling is required :).
+10quik is a single-page webapp that compiles 10-Q and 10-K filings (hence the name) for every publicly traded company. Each financial table within a filing can be quickly converted to an excel sheet for convenient offline analysis. 10quik also utilizes a machine learning algorithm to identify the most commonly viewed tables -- namely the income statement, balance sheet, and cash flow statement -- and links the user directly to them in the document so no manual searching or scrolling is required :).
 
 ## Outline
 This is a work in progress and not currently scalable, so it isn't deployed for outside users. Below are some demo images showing the current state of the project.
