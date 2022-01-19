@@ -6,7 +6,6 @@ export default function ExcelSheet(props) {
     const script = document.createElement('script');
 
     script.src = Source.onedrive;
-    console.log(Source.onedrive);
     script.async = true;
 
     document.body.appendChild(script);
