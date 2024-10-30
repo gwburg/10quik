@@ -12,14 +12,14 @@ A core practice of fundamental investing is to read the financial statements of 
 This is a work in progress and not currently scalable, so it isn't deployed for outside users. Below are some demo images showing the current state of the project.
 
 #### Home page
-![home page](https://github.com/gwburg/10quik/blob/master/demo/1.png?raw=true)
+![home page](https://github.com/gwburg/10quik/blob/main/demo/1.png?raw=true)
 #### Search autocomplete from the SEC database
-![autocompletes searchbar](https://github.com/gwburg/10quik/blob/master/demo/2.png?raw=true)
+![autocompletes searchbar](https://github.com/gwburg/10quik/blob/main/demo/2.png?raw=true)
 #### Pulls in all quarterly and annual filings for selected company
-![import all filings](https://github.com/gwburg/10quik/blob/master/demo/3.png?raw=true)
+![import all filings](https://github.com/gwburg/10quik/blob/main/demo/3.png?raw=true)
 #### Loads selected filing and begins scanning the document
-![selected filing loaded](https://github.com/gwburg/10quik/blob/master/demo/4.png?raw=true)
+![selected filing loaded](https://github.com/gwburg/10quik/blob/main/demo/4.png?raw=true)
 #### Links to key tables appear after scanning
-![jump to key table](https://github.com/gwburg/10quik/blob/master/demo/5.png?raw=true)
+![jump to key table](https://github.com/gwburg/10quik/blob/main/demo/5.png?raw=true)
 #### Table is converted to an excel sheet which can be downloaded or copy/pasted directly from the browser
-![convert table to excel](https://github.com/gwburg/10quik/blob/master/demo/6.png?raw=true)
+![convert table to excel](https://github.com/gwburg/10quik/blob/main/demo/6.png?raw=true)
